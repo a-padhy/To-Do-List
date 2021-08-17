@@ -7,7 +7,7 @@
 ### Links
 
 - Solution URL: [Code on GitHub](https://github.com/a-padhy/To-Do-List)
-- Live Site URL: [Vercel Pages Live URL](https://ap-mytodolist.vercel.app/)
+- Live Site URL: [Vercel Live URL](https://ap-mytodolist.vercel.app/)
 
 ## Author
 
